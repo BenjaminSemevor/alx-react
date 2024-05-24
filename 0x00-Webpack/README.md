@@ -3,8 +3,6 @@
 
 0. Basic setup
 
-Score: 100.0% (Checks completed: 100.0%)
-
 Create and run Webpack using a basic installation.
 
     Create a folder named task_0.
@@ -31,8 +29,6 @@ Copyright - Holberton School
 ===========================
 
 1. Learning how to use Webpack with a config file
-
-Score: 100.0% (Checks completed: 100.0%)
 
 Installing packages
 
@@ -71,8 +67,6 @@ Resources:
 
 2. Adding CSS & Images
 
-Score: 100.0% (Checks completed: 100.0%)
-
 Create a specific configuration for Webpack.
 
     Using the folder named task_2.
@@ -95,8 +89,6 @@ Create a specific configuration for Webpack.
 ===========================
 
 3. Dev servers, modules, and tree shaking
-
-Score: 100.0% (Checks completed: 100.0%)
 
 Using the folder named task_3. Set up a development server:
 
